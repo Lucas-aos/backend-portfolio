@@ -2,7 +2,7 @@
 
 METAS E PROJETOS C# | .NET | APIs REST
 
-#Projeto 1
+#Projeto_1
 
 API CRUD de Usuários
 Recursos:
@@ -14,8 +14,7 @@ Objetivos:
   - Operações CRUD
   - Banco de Dados
 
-
-#Projeto 2
+#Projeto_2
 Sistema de Chamados (Ticket)
 Recursos:
   - Login com JWT
@@ -28,13 +27,14 @@ Objetivos:
 - Proteção de rotas
 
 
-#Projeto 3
+#Projeto_3
+
 API E-commerce
 Recursos:
-  - Listar produtos
-  - Carrinho básico
-  - Criação de pedido
-  - Usuários e autenticação
+  > Listar produtos
+  > Carrinho básico
+  > Criação de pedido
+  > Usuários e autenticação
 Objetivos: 
 - Estrutura funcional
 - Endpoints
