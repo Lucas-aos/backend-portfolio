@@ -2,8 +2,8 @@
 
 METAS E PROJETOS C# | .NET | APIs REST
 
-||Projeto 1||
-> API CRUD de Usuários <
+> Projeto 1
+|| API CRUD de Usuários||
 # Recursos:
   - Usuários: Criar, Listar, editar e deletar
   - Banco de dados com EF Core
@@ -14,8 +14,8 @@ METAS E PROJETOS C# | .NET | APIs REST
   - Banco de Dados
 
 
-||Projeto 2||
-> Sistema de Chamados (Ticket) <
+>Projeto 2
+||Sistema de Chamados (Ticket)||
 # Recursos:
   - Login com JWT
   - Criar chamados
@@ -27,8 +27,8 @@ METAS E PROJETOS C# | .NET | APIs REST
 - Proteção de rotas
 
 
-||Projeto 3||
-> API E-commerce <
+> Projeto 3
+||API E-commerce||
 # Recursos:
   - Listar produtos
   - Carrinho básico
